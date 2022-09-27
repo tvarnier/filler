@@ -1,4 +1,4 @@
-# FILLER [[Sujet](https://github.com/tvarnier/42/blob/master/algorithm/filler/subject.pdf)]
+# FILLER [[Sujet](https://github.com/tvarnier/filler/blob/master/subject.pdf)]
 
 <br>
 
@@ -9,7 +9,7 @@ Chaque pièce posée avec succès rapporte un certain nombre de points, et a un 
 <br>
 
 <div>
-  <img src="https://github.com/tvarnier/42/blob/master/algorithm/filler/img/filler_gif.gif" width="75%">
+  <img src="https://github.com/tvarnier/filler/blob/master/img/filler_gif.gif" width="75%">
 </div>
 
 <br>
